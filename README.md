@@ -2,7 +2,7 @@
 
 Yoshify is an offline music player made using Python. The purpose of Yoshify is to allow users to listen to music offline through a simple and easy-to-use GUI.
 
-# Features
+## Features
 
 - Login and sign-up system
 - Stores user login information using an SQLite database
@@ -15,7 +15,7 @@ Yoshify is an offline music player made using Python. The purpose of Yoshify is 
 - Songs loop from the last song back to the first song
 - Tkinter graphical user interface
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter - used to create the GUI
@@ -23,7 +23,7 @@ Yoshify is an offline music player made using Python. The purpose of Yoshify is 
 - VLC - used to play and control the music
 - PIL / Pillow - used to display images
 
-# How Yoshify Works
+## How Yoshify Works
 
 When Yoshify starts, the user is shown a login and sign-up screen.
 
@@ -33,7 +33,7 @@ An existing user can enter their username and password to log in. If the details
 
 The music player allows the user to play/pause music, skip songs, go back to previous songs and change the volume.
 
-# How to Run
+## How to Run
 
 1. Download the Yoshify project folder.
 2. Make sure Python is installed.
@@ -46,6 +46,6 @@ The music player allows the user to play/pause music, skip songs, go back to pre
 
 This project was created for my AS91906 Programming Portfolio. The project demonstrates the use of complex programming techniques including a GUI, classes and objects, and an SQLite database.
 
-# Author
+## Author
 
 Yoshi
